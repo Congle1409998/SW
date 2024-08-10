@@ -8,7 +8,7 @@ module.exports = {
     swisstronik: {
       // If you're using local testnet, replace `url` with local json-rpc address
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: ["0x8c654936e6b510a646a3cc64476f72c5aad5b4f46948546a0b1db283956f36a1"],
+      accounts: ["0x..."],
     },
   },
 };
